@@ -1,3 +1,3 @@
 FROM maven:3.6.0-jdk-8 AS build
 WORKDIR /usr/share/wow
-ENTRYPOINT mvn clean test -Dtest=CucumberRunner 
+ENTRYPOINT mvn clean test -Dtest=TestRunner 
