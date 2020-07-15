@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Sicredi-0.0.1-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/south/target/Sicredi-0.0.1-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
